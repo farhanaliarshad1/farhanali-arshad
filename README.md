@@ -37,5 +37,5 @@ Born and raised in Pakistan, I've been living in Germany and fully immersed in t
 ## Socials
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com](https://x.com/FarhanArshad01?t=AISMXPReNOdlw_zsbKdu5w&s=09)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/ifarhan.arshad?igsh=MWg2eGQzOWQ3MTA1aw==))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/ifarhan.arshad?igsh=MWg2eGQzOWQ3MTA1aw==)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-arshad/)
