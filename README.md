@@ -48,7 +48,6 @@ Technologies, tools and frameworks I have had contact with or have closer contac
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
 ---
 
 ### • I WISH TO LEARN
@@ -58,6 +57,16 @@ The main technologies, tools and frameworks I intend to develop, enhance, or stu
 ![MLOps](https://img.shields.io/badge/MLOps-43B02A?style=for-the-badge&logo=dvc&logoColor=white)  ![TensorFlow Extended](https://img.shields.io/badge/TensorFlow_Extended-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![AWS Advanced](https://img.shields.io/badge/AWS_Advanced-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Azure Machine Learning](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=azuremachinelearning&logoColor=white)
 
+### Research Focus & Professional Interests
+
+![](https://img.shields.io/badge/MACHINE%20LEARNING-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
+![](https://img.shields.io/badge/DEEP%20LEARNING-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
+![](https://img.shields.io/badge/NATURAL%20LANGUAGE%20PROCESSING-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
+![](https://img.shields.io/badge/RESPONSIBLE%20AI-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
+![](https://img.shields.io/badge/AI%20EXPLAINABILITY-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
+![](https://img.shields.io/badge/Generative%20AI-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
+![](https://img.shields.io/badge/LLMs-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
+![](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-ff6f61?style=for-the-badge&labelColor=2d2d2d&color=ff6f61)
 
 
 ---
