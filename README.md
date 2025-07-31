@@ -1,10 +1,10 @@
 # Hi, My name is Farhan Ali 👋
 
-## Software Test Engineer & ML/NLP Practitioner
+## Software Automation Engineer & ML/NLP Practitioner
 
 Born and raised in Pakistan, I've been living in Germany and fully immersed in the world of quality assurance ever since I wrote my first automated test script. I hold a Bachelor's degree in Software Engineering from the University of Gujrat, and my true passion lies in ensuring software excellence through comprehensive testing. I've been automating tests and enjoying every moment of it. Currently, I'm pursuing an MSc in Natural Language Processing at the University of Trier, Germany, where I'm thriving as a passionate QA engineer transitioning into the exciting world of Machine Learning.
 
--  I'm based in Germany and Pakistan
+-  I'm based in Germany
 -  How to reach me farhanali.arshad217@gmail.com
 -  I'm learning Machine Learning & NLP
 -  I'm looking to collaborate on AI/ML projects
