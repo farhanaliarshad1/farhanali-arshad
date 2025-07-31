@@ -4,10 +4,10 @@
 
 Born and raised in Pakistan, I've been living in Germany and fully immersed in the world of quality assurance ever since I wrote my first automated test script. I hold a Bachelor's degree in Software Engineering from the University of Gujrat, and my true passion lies in ensuring software excellence through comprehensive testing. I've been automating tests and enjoying every moment of it. Currently, I'm pursuing an MSc in Natural Language Processing at the University of Trier, Germany, where I'm thriving as a passionate QA engineer transitioning into the exciting world of Machine Learning.
 
-• 🌍 I'm based in Germany and Pakistan
-• 📧 How to reach me farhanali.arshad217@gmail.com
-• 🧠 I'm learning Machine Learning & NLP
-• 🤝 I'm looking to collaborate on AI/ML projects
+🌍 I'm based in Germany and Pakistan
+📧 How to reach me farhanali.arshad217@gmail.com
+🧠 I'm learning Machine Learning & NLP
+🤝 I'm looking to collaborate on AI/ML projects
 
 ## Skills
 
@@ -36,6 +36,6 @@ Born and raised in Pakistan, I've been living in Germany and fully immersed in t
 
 ## Socials
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([https://x.com/FarhanArshad01?t=AISMXPReNOdlw_zsbKdu5w&s=09])
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/ifarhan.arshad?igsh=MWg2eGQzOWQ3MTA1aw==])
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/FarhanArshad01?t=AISMXPReNOdlw_zsbKdu5w&s=09)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ifarhan.arshad?igsh=MWg2eGQzOWQ3MTA1aw==)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-arshad/)
